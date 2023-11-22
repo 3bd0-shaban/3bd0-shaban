@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelra7man9/" target="_blank">
+  <a href="https://www.linkedin.com/in/3bd0-shaban/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/AbdElra56792253" target="_blank">
@@ -30,7 +30,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+![](https://komarev.com/ghpvc/?username=3bd0-shaban&color=green)
 <p align="left">Hi 👋! My name is AbdElrahman Shaban , <br><br>- 🔭 I’m Full-Stack engineer<br>- ⚡ creating beautiful and intuitive Websites and Web Applications .</p>
 
 ###
@@ -62,7 +62,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbdElra7man9&theme=iceberg&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com?user=3bd0-shaban&theme=iceberg&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
