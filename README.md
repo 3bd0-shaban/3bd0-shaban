@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img height="180" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 </div>
 
 ---
@@ -31,16 +31,16 @@
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h2 align="left">👨‍💻 About Me</h2>
 
-- 🚀 Full-Stack Engineer, passionate about creating **scalable**, **optimized**, and **intuitive** web applications.  
-- 💡 Specializing in **React, Next.js, TailwindCSS, Node.js, and TypeORM**.  
-- 🏗 Building **enterprise-level applications**, **SaaS platforms**, and **e-commerce solutions**.  
-- 📍 Currently working on a **marketplace platform for suppliers & automated e-commerce solutions**.  
+- 🚀 **Full-Stack Engineer** specialized in crafting **scalable**, **efficient**, and **high-performance** web applications.  
+- 💡 Passionate about **React, Next.js, TailwindCSS, Node.js, and TypeORM**.  
+- 🔥 Focused on **enterprise-level applications, SaaS platforms, and marketplace automation**.  
+- 🎯 **Currently working on** an **automated e-commerce platform** with **supplier integration**.  
 
 ---
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
@@ -56,15 +56,17 @@
 
 ---
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<h2 align="left">🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=3bd0-shaban&theme=iceberg&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bd0-shaban&theme=iceberg&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=3bd0-shaban&show_icons=true&theme=iceberg&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 ---
 
-<h3 align="left">📫 Get in Touch</h3>
+<h2 align="left">📫 Get in Touch</h2>
 
 - 🏢 **LinkedIn:** [linkedin.com/in/3bd0-shaban](https://www.linkedin.com/in/3bd0-shaban/)  
 - 🐦 **Twitter:** [twitter.com/AbdElra56792253](https://twitter.com/AbdElra56792253)  
