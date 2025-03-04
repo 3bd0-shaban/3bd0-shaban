@@ -64,7 +64,7 @@
 
 <p align="left">
   📧 <strong>Email:</strong> <a href="mailto:abdulra7manshaban@gmail.com">abdulra7manshaban@gmail.com</a> <br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/3bd0-shaban/" target="_blank">linkedin.com/in/3bd0-shaban</a> <br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abdelra7man9/" target="_blank">linkedin.com/in/3bd0-shaban</a> <br>
   🐦 <strong>Twitter:</strong> <a href="https://twitter.com/AbdElra56792253" target="_blank">twitter.com/AbdElra56792253</a> <br>
   📷 <strong>Instagram:</strong> <a href="https://www.instagram.com/3bdo9100/" target="_blank">instagram.com/3bdo9100</a> <br>
   🌐 <strong>Portfolio:</strong> <a href="https://abdulrahman-shaban.vercel.app" target="_blank">abdulrahman-shaban.vercel.app</a>
